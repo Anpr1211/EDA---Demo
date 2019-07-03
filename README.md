@@ -24,3 +24,7 @@ The data columns  has been described below -
 Payments Bank - A payments bank is like any other bank, but operating on a smaller scale without involving any credit risk. In simple words, it can carry out most banking operations but can’t advance loans or issue credit cards. Eg., PayTM Payments Bank, Airtel Payments Bank, etc. For more details, visit https://en.wikipedia.org/wiki/Payments_bank
 
 Small Finance Bank - The Small Finance Bank (SFB) is a private financial institution intended to further the objective of financial inclusion by primarily undertaking basic banking activities of acceptance of deposits and lending to un-served and underserved sections including small business units, small and marginal farmers, micro and small industries and unorganised sector entities, but without any restriction in the area of operations, unlike Regional Rural Banks or Local Area Banks. For more details, visit https://en.m.wikipedia.org/wiki/Small_finance_bank
+
+CRISP - DM :
+https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome
+https://towardsdatascience.com/yet-another-full-stack-data-science-project-a-crisp-dm-implementation-2943cae8da09
