@@ -27,5 +27,4 @@ Small Finance Bank - The Small Finance Bank (SFB) is a private financial institu
 
 CRISP - DM :
 https://www.datasciencecentral.com/profiles/blogs/crisp-dm-a-standard-methodology-to-ensure-a-good-outcome
-
 https://towardsdatascience.com/yet-another-full-stack-data-science-project-a-crisp-dm-implementation-2943cae8da09
